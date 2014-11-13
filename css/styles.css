@@ -26,7 +26,8 @@ p {
 
 #info p {
 	height: 539px;
-	font-size: 1.50em;
+	font-size: 1.25em;
+	word-spacing: .25em;
 	
 }
 
